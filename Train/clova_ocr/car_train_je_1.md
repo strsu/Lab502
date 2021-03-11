@@ -16,7 +16,7 @@
  총 110개의 이미지를 대상으로 테스트
 
  ### * 테스트 이미지 샘플
- <img src = "https://user-images.githubusercontent.com/80444851/110818080-4a857200-82d0-11eb-8893-9149a8e570d3.jpg" width="400px" align="right">
+ <img src = "https://user-images.githubusercontent.com/80444851/110818080-4a857200-82d0-11eb-8893-9149a8e570d3.jpg" width="400px">
  
  ### * 틀린 결과 이미지
  110개중 15개 이미지 오답
