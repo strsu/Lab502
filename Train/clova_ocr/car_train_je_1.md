@@ -20,7 +20,7 @@
  
  ### * 틀린 결과 이미지
  110개중 15개 이미지 오답
- <img src = "https://user-images.githubusercontent.com/80444851/110820084-1e6af080-82d2-11eb-9080-c0d5d063ea86.png" width="400px" align="left">
  
+ <img src = "https://user-images.githubusercontent.com/80444851/110820084-1e6af080-82d2-11eb-9080-c0d5d063ea86.png" width="400px" align="left">
  
  <img src = "https://user-images.githubusercontent.com/80444851/110820132-2b87df80-82d2-11eb-8c77-63effef5a805.png" width="400px">
