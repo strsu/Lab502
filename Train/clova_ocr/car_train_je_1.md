@@ -16,10 +16,10 @@
  총 110개의 이미지를 대상으로 테스트
 
  ### * 테스트 이미지 샘플
- <img src = "https://user-images.githubusercontent.com/80444851/110818080-4a857200-82d0-11eb-8893-9149a8e570d3.jpg" width="400px">
+ <img src = "https://user-images.githubusercontent.com/80444851/110818080-4a857200-82d0-11eb-8893-9149a8e570d3.jpg" width="400px" align="right">
  
  ### * 틀린 결과 이미지
  110개중 15개 이미지 오답
- <img src = "https://user-images.githubusercontent.com/80444851/110820084-1e6af080-82d2-11eb-9080-c0d5d063ea86.png" width="400px">
+ <img src = "https://user-images.githubusercontent.com/80444851/110820084-1e6af080-82d2-11eb-9080-c0d5d063ea86.png" width="400px" align="right">
  
- <img src = "https://user-images.githubusercontent.com/80444851/110820132-2b87df80-82d2-11eb-8c77-63effef5a805.png" width="400px">
+ <img src = "https://user-images.githubusercontent.com/80444851/110820132-2b87df80-82d2-11eb-8c77-63effef5a805.png" width="400px" align="right">
